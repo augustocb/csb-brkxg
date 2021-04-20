@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://augustocb.github.io/csb-brkxg/static/css/main.8806b6e7.chunk.css",
+    "main.js": "https://augustocb.github.io/csb-brkxg/static/js/main.cf98be3b.chunk.js",
+    "main.js.map": "https://augustocb.github.io/csb-brkxg/static/js/main.cf98be3b.chunk.js.map",
+    "runtime-main.js": "https://augustocb.github.io/csb-brkxg/static/js/runtime-main.2d636ee2.js",
+    "runtime-main.js.map": "https://augustocb.github.io/csb-brkxg/static/js/runtime-main.2d636ee2.js.map",
+    "static/css/2.429ccda6.chunk.css": "https://augustocb.github.io/csb-brkxg/static/css/2.429ccda6.chunk.css",
+    "static/js/2.23a934ad.chunk.js": "https://augustocb.github.io/csb-brkxg/static/js/2.23a934ad.chunk.js",
+    "static/js/2.23a934ad.chunk.js.map": "https://augustocb.github.io/csb-brkxg/static/js/2.23a934ad.chunk.js.map",
+    "static/js/3.96fb6374.chunk.js": "https://augustocb.github.io/csb-brkxg/static/js/3.96fb6374.chunk.js",
+    "static/js/3.96fb6374.chunk.js.map": "https://augustocb.github.io/csb-brkxg/static/js/3.96fb6374.chunk.js.map",
+    "index.html": "https://augustocb.github.io/csb-brkxg/index.html",
+    "static/css/2.429ccda6.chunk.css.map": "https://augustocb.github.io/csb-brkxg/static/css/2.429ccda6.chunk.css.map",
+    "static/css/main.8806b6e7.chunk.css.map": "https://augustocb.github.io/csb-brkxg/static/css/main.8806b6e7.chunk.css.map",
+    "static/js/2.23a934ad.chunk.js.LICENSE.txt": "https://augustocb.github.io/csb-brkxg/static/js/2.23a934ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d636ee2.js",
+    "static/css/2.429ccda6.chunk.css",
+    "static/js/2.23a934ad.chunk.js",
+    "static/css/main.8806b6e7.chunk.css",
+    "static/js/main.cf98be3b.chunk.js"
+  ]
+}
